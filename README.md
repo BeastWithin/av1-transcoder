@@ -40,3 +40,7 @@ Useful options:
   bitrate) usually shrink the most. Already efficient sources (HEVC/AV1 at good bitrate) may
   not shrink, and are then kept as they are.
 - `-qp` is ignored by Mesa's `av1_vaapi`; the tool uses `-global_quality` with CQP instead.
+
+## License
+
+GPL-3.0-or-later. See [LICENSE](LICENSE).
